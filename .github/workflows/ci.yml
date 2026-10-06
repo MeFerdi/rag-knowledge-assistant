@@ -1,5 +1,3 @@
-# Lives inside the project folder so the project can be split into its own repo
-# unchanged. In the monorepo, GitHub only reads the root .github/, so mirror it there.
 name: ci
 
 on:
